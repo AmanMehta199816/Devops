@@ -1,4 +1,5 @@
 # DevOps By Aman Mehta 
+![3Xw8jY3zbFRtFd6eK8](https://github.com/AmanMehta199816/Devops/assets/96304523/0240c0e6-c40a-4622-9c12-77fc554d885e)
 
 Welcome to the DevOps Resources repository! Whether you're just getting started with DevOps practices or looking to enhance your skills in automation, continuous integration/continuous deployment (CI/CD), and infrastructure as code (IaC), this repository aims to provide you with a curated list of resources to excel in the field of DevOps.
 
